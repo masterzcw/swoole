@@ -1,14 +1,6 @@
-
 <?php
 
-// phpinfo();
-
-$a = new \EventBase;
-
-var_dump($a);
-
-
-
+echo '我是外部加载xxx';
 
 
 
